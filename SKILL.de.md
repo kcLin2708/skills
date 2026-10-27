@@ -184,7 +184,7 @@ Informationen und durchsuche nur die gewählten Kategorien.
   Einträgen auf.
 - Ordne alle gewählten Kategorien gemeinsam nach der Reihenfolge in
   „Länge und Rangfolge der Ausgabe“. Sorge wenn möglich für Vielfalt,
-  damit eine Kategorie nicht alle 5 Plätze belegt, wenn mehrere gewählt
+  damit eine Kategorie nicht alle 3 Plätze belegt, wenn mehrere gewählt
   wurden.
 - Füge keine zusätzlichen Listen, „Ehrenerwähnungen“ oder langen
   Verzeichnisse hinzu. Biete in einer Schlusszeile an, mehr zu zeigen
@@ -192,7 +192,7 @@ Informationen und durchsuche nur die gewählten Kategorien.
 
 ## Ausgabeformate
 
-Zeige die gleichen geprüften Top 5 im gewählten Format. Inhalt,
+Zeige die gleichen geprüften Top 3 im gewählten Format. Inhalt,
 Rangfolge, Daten, Preise und Links müssen in jedem Format identisch
 sein.
 
@@ -212,7 +212,7 @@ sein.
   Textliste. Verzichte nie auf Prüfung oder Quellenlinks, nur damit ein
   Visual voller wirkt.
 - Zeige ungeprüfte Felder in jedem Format als „Nicht in der Quelle
-  angegeben“. Wenn weniger als 5 Ergebnisse geprüft sind, zeige nur
+  angegeben“. Wenn weniger als 3 Ergebnisse geprüft sind, zeige nur
   diese; füge keine Platzhalterkarten hinzu.
 
 ## Standard-Antwortformat
@@ -228,7 +228,7 @@ Erstelle:
 3.  **Praktische Hinweise** --- ein bis zwei Zeilen zu Verkehr, Wetter,
     Öffnungszeiten, Buchung oder Barrierefreiheit, nur wenn geprüft und
     relevant.
-4.  **Empfehlung** --- ein Satz, welches der fünf Ergebnisse am besten
+4.  **Empfehlung** --- ein Satz, welches der drei Ergebnisse am besten
     passt.
 5.  **Quellen** --- direkte Links, den jeweiligen Aussagen zugeordnet.
 
@@ -321,7 +321,7 @@ klar als allgemein, nicht live.
 
 Bevor du antwortest, prüfe: - Habe ich zuerst die Multiple-Choice-Frage
 gestellt (außer die Kategorien waren schon klar)? - Habe ich nur die
-Top 5 geliefert, beschränkt auf die gewählten Kategorien und im
+Top 3 geliefert, beschränkt auf die gewählten Kategorien und im
 gewählten Format (Text, Karten oder Dashboard)? - Habe ich das richtige
 lokale Datum und den gewünschten Zeitraum bestimmt? - Habe ich für
 zeitkritische Aussagen wirklich aktuelle Quellen durchsucht? - Sind
